@@ -61,6 +61,31 @@ const questions = [
         message: "If you followed tutorials, include links here.",
         name: "tutorials"
     },
+    {
+        type: "input",
+        message: "If your project has a lot of features, list them here.",
+        name: "features"
+    },
+    {
+        type: "input",
+        message: "If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so.",
+        name: "contributing"
+    },
+    {
+        type: "input",
+        message: "If you created tests for your application, provide examples on how to run them here.",
+        name: "tests"
+    },
+    {
+        type: "input",
+        message: "What is your GitHub username?",
+        name: "github"
+    },
+    {
+        type: "input",
+        message: "What is your email address?",
+        name: "email"
+    },
 ];
 
 // TODO: Create a function to write README file

@@ -32,6 +32,7 @@ ${answers.description}
 - [Features](#features)
 - [How to Contribute](#how-to-contribute)
 - [Tests](#tests)
+- [Questions](#questions)
 
 ## Installation
 
@@ -44,8 +45,10 @@ ${answers.installation}
 View walkthrough video here:
 ${answers.walkthrough}
 
-Deployed site can be viewed at [${answers.deployed}]
+Deployed site can be viewed at: 
+[${answers.deployed}]
 
+Provide any instructions and/or examples for use:
 ${answers.usage}
 
 ## Credits
@@ -66,10 +69,6 @@ ${answers.tutorials}
 
 The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
 
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
 ## Badges
 
 ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
@@ -78,7 +77,7 @@ Badges aren't necessary, per se, but they demonstrate street cred. Badges let ot
 
 ## Features
 
-If your project has a lot of features, list them here.
+${answers.features}
 
 ## How to Contribute
 
@@ -86,12 +85,12 @@ If you created an application or package and would like other developers to cont
 
 ## Tests
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.;
+${answers.tests}
 
 ## Questions
 
-What is your github username?
-What is your email address?`
+My GitHub profile can be viewed at https://github.com/${answers.github} 
+Please send questions via email: ${answers.email}`
 
 
 
