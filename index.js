@@ -28,7 +28,7 @@ const questions = [
         type: "checkbox",
         message: "Which of the following were utilized - choose all that apply?",
         name: "technologies",
-        choices: ["HTML", "CSS", "GIT", "Bootstrap", "Heroku", "Javascript", "JQuery", "AJAX", "NodeJS", "ReactJS", "Python", "Pandas"],
+        choices: [" HTML", " CSS", " GIT", " Bootstrap", " Heroku", " Javascript", " JQuery", " AJAX", " NodeJS", " ReactJS", " Python", " Pandas"],
         default: "No technologies provided."
     },
     {
@@ -58,7 +58,7 @@ const questions = [
     {
         type: "input",
         message: "Provide any instructions and/or examples for use.",
-        name: "usage", 
+        name: "usage",
         default: "No instructions or examples provided."
     },
     {
@@ -83,8 +83,7 @@ const questions = [
         type: "list",
         name: "license",
         message: "Choose your license:",
-        choices: ["Apache", "BSD 3-Clause", "BSD 2-Clause", "GNU General Public License", "GNU Library General Public License", "MIT", "Mozilla", "Common Development and Distribution License", "Eclipse Public License", "Other"],
-        default: "No license information provided."
+        choices: ["None", "Apache", "BSD 3-Clause", "BSD 2-Clause", "GNU General Public License", "GNU Library General Public License", "MIT", "Mozilla", "Common Development and Distribution License", "Eclipse Public License", "Other"],
     },
     {
         type: "input",
@@ -101,7 +100,7 @@ const questions = [
     {
         type: "input",
         message: "If you created tests for your application, provide examples on how to run them here.",
-        name: "tests", 
+        name: "tests",
         default: "No test information provided."
     },
     {

@@ -6,7 +6,7 @@ const generateSample = (answers) => {
 
 ## Technologies
 
-(${answers.technologies} + " ")
+${answers.technologies}
 
 ## Description
 
