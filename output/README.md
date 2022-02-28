@@ -8,7 +8,7 @@
 
 ## Description
 
-This application was created to provide users with a high-quality, professional README file generated via prompts and user input in the command line.
+This application was designed to provide the user with a high-quality, professional README file generated from command line via prompts and user input.
 
 ## Table of Contents (Optional)
 
@@ -23,7 +23,7 @@ This application was created to provide users with a high-quality, professional 
 
 ## Installation
 
-User will close repo to their local machine and type npm install in the command line.  To begin the generator, the user will type node index in the command line.
+User will clone repo to machine, type npm install in command line.  Then type node index in command line to launch questions.
 
 ## Usage
 

@@ -30,7 +30,7 @@ User will close repo to their local machine and type npm install in the command 
 ![Landing Page View](/assets/images/page.png)
 
 View walkthrough video here:
-https://drive.google.com/file/d/1WRdV9zMRL__hwyZNUqLfjRnc_SIXkoI2/view
+https://drive.google.com/file/d/1Em7SJGUJJL55fJNhnsC7etDe5d3V86IS/view
 
 Deployed site can be viewed at: 
 [https://hdtamisiea.github.io/README-generator]
