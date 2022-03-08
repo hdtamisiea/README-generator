@@ -23,7 +23,7 @@ This application was created to provide users with a high-quality, professional 
 
 ## Installation
 
-User will close repo to their local machine and type npm install in the command line.  To begin the generator, the user will type node index in the command line.
+User will clone repo to their local machine and type npm install in the command line.  To begin the generator, the user will type node index in the command line.
 
 ## Usage
 
